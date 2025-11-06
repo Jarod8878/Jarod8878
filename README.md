@@ -1,5 +1,3 @@
-
-[Uploading ReadMe.md…]()
 # 💫 About Me:
 I'm a graduate from UTAR Kampar that majors in Business Information Systems.<br>I'm Interested in both programming as well as system testing.<br>Completed my intern as a Business Analysts at Cyber Village, though did not perform any programming activities, but is rather interested in pursuing a career in it.<br>Contact:<br>- Email: jarodlimjw@gmail.com
 
